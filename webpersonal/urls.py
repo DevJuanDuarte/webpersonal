@@ -20,6 +20,9 @@ urlpatterns = [
     #APP CORE
     path('', include('core.urls')),
 
+    #APP PORTFOLIO
+    path('', include('portfolio.urls')),
+
 
     path('admin/', admin.site.urls),
 
