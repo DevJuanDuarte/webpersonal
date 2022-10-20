@@ -25,7 +25,7 @@ header .logo .nombre{
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    color: rgba(199, 0, 0, 0.973);
 }
 
 header .logo .icono{
@@ -43,7 +43,7 @@ header .menu a{
     display: block;
     padding: 0 30px;
     text-decoration: none;
-    color: #f2f2f2;
+    color: #0adabe;
 }
 
 header .menu a div span{
@@ -51,9 +51,9 @@ header .menu a div span{
     text-transform: uppercase;
 }
 
-header .menu .c-1 {background: #1aaf7e;}
-header .menu .c-2 {background: #108d63;}
-header .menu .c-3 {background: #0c7754;}
+header .menu .c-1 {background: #bd1965;}
+header .menu .c-2 {background: #1ae486;}
+header .menu .c-3 {background: #04804c;}
 
 header .menu .c-1:hover {background: #3fdda8;}
 header .menu .c-2:hover {background: #2ca77e;}
