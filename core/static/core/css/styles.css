@@ -25,7 +25,7 @@ header .logo .nombre{
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
-    color: rgba(199, 0, 0, 0.973);
+    color: rgba(0, 0, 0, 0.973);
 }
 
 header .logo .icono{
@@ -43,7 +43,7 @@ header .menu a{
     display: block;
     padding: 0 30px;
     text-decoration: none;
-    color: #0adabe;
+    color: #ffffff;
 }
 
 header .menu a div span{
@@ -51,13 +51,13 @@ header .menu a div span{
     text-transform: uppercase;
 }
 
-header .menu .c-1 {background: #bd1965;}
-header .menu .c-2 {background: #1ae486;}
-header .menu .c-3 {background: #04804c;}
+header .menu .c-1 {background: #041C32;}
+header .menu .c-2 {background: #04293A;}
+header .menu .c-3 {background: #064663;}
 
-header .menu .c-1:hover {background: #3fdda8;}
-header .menu .c-2:hover {background: #2ca77e;}
-header .menu .c-3:hover {background: #319775;}
+header .menu .c-1:hover {background: #0e3250;}
+header .menu .c-2:hover {background: #2C394B;}
+header .menu .c-3:hover {background: #334756;}
 
 /* Slider */
 
@@ -70,31 +70,40 @@ header .menu .c-3:hover {background: #319775;}
 /*Portafolio */
 .contenedor{
     background: #fff;
-    border-top: 5px solid #0c7754;
+    border-top: 5px solid #112D4E;
     padding: 0 20px;
 }
 
 .titulo{
     padding: 40px 0;
-    text-align: center;
-    color: #0c7754;
+    text-align: start;
+    color: #112D4E;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
+
+.titulo2{
+    padding: 40px 0;
+    text-align: center;
+    color: #112D4E;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
 .title-project{
     padding: 10px 0;
-    color: #0c7754;
+    color: #112D4E;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
 .contenedor .projects .content-project .link-project{
-    background: #108d63;
+    background: #142850;
     display: inline-block;
     color: #fff;
 }
 
 .contenedor .projects .content-project .link-project:hover{
-    background: #1faa7c;
+    background: #27496D;
     display: inline-block;
     color: #fff;
 }
@@ -106,7 +115,7 @@ header .menu .c-3:hover {background: #319775;}
 }
 
 .contenedor .projects .content-project a{
-    background: #25d198;
+    background: #142850;
     display: inline-block;
 }
 .contenedor .projects .content-project:hover img{
@@ -170,7 +179,7 @@ header .menu .c-3:hover {background: #319775;}
     line-height: 80px;
     color: #fff;
     text-align: center;
-    background: #108d63;
+    background: #142850;
     display: inline-block;
     margin: 0px 20px;
     text-decoration: none;
