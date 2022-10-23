@@ -76,7 +76,7 @@ header .menu .c-3:hover {background: #334756;}
 
 .titulo{
     padding: 40px 0;
-    text-align: start;
+    text-align: center;
     color: #112D4E;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -187,7 +187,7 @@ header .menu .c-3:hover {background: #334756;}
     transition: all .3s ease;
 }
 .redes-sociales .icono:hover{
-    background: #1aaf7e;
+    background: #282087;
 }
 .redes-sociales .copyright{
     padding: 20PX 0;
